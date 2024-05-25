@@ -1,7 +1,7 @@
 {
     "name": "taylor",
     "version": "0.0.1",
-    "description": "Free WhatsApp Bot Multi Device With ESM Module",
+    "description": "Multi Device With ESM Mle",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -38,7 +38,7 @@
     "bugs": {
         "url": "https://github.com/AyGemuy/Taylor-V2/issues"
     },
-    "license": "GPL-3.0-or-later",
+    "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "github:nstar-y/Bail",
         "@adiwajshing/keyed-db": "^0.2.4",
