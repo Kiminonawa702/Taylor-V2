@@ -4,4 +4,9 @@
   "repository": "https://github.com/Kiminonawa702/Taylor-V2",
   "logo": "https://node-js-sample-1234567890ab.herokuapp.com/node.png",
   "keywords": ["node", "express", "static"]
+    "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
 }
