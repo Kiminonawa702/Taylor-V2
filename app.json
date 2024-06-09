@@ -1,7 +1,7 @@
 {
   "name": "Node.js Sample",
   "description": "A barebones Node.js app using Express",
-  "repository": "https://github.com/Kiminonawa702/Taylor-V2",
+  "repository": "https://github.com/Kiminonawa702/Taylor-V2.git",
   "keywords": ["node", "express", "static"]
     "buildpacks": [
     {
