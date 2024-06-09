@@ -1,7 +1,7 @@
 Tinggal `npm install` terus `npm start`
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kiminonawa702/Taylor-V2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kiminonawa702/Taylor-V2.git)
 
 
 ## Info
